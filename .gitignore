@@ -1,0 +1,11 @@
+.DS_Store
+data/datamodel.txt.syn1neg.npy
+data/datamodel.txt.wv.syn0.npy
+data/intermediate/baddata.txt
+data/intermediate/badtestdata.txt
+data/intermediate/gooddata.txt
+data/intermediate/goodtestdata.txt
+data/test.ft.txt
+data/train.ft.txt
+data/intermediate/badresults.txt
+data/intermediate/goodresults.txt
