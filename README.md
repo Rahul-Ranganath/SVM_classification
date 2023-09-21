@@ -1,6 +1,6 @@
 # Text-classification-using-SVM
-Text classification using SVM
-paper related work
+Text classification using SVM <br>
+paper related work <br>
 Drive link: https://drive.google.com/open?id=1SRZ3u1Iq4lZb6dd1DkHHhfgdYk3Td2vz
 
 Place following files from drive on local_repo:
